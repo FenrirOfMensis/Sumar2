@@ -4,7 +4,7 @@
 #' @param y Second element to sum.
 #' @param negative TRUE if the elements to subtract.
 #'
-#' @return The sum of two elements.
+#' @return The Sum of two elements.
 #' @export
 #'
 #' @examples
