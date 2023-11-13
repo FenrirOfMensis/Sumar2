@@ -1,4 +1,4 @@
-#' Sum two elements
+#' Sum of two elements
 #'
 #' @param x First element to sum.
 #' @param y Second element to sum.
